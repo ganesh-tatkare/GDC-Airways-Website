@@ -1,2 +1,3 @@
 # GDC-Airways-Website
-Developed a flight ticket booking website with database connectivity.
+GDC Airways is a flight ticket booking website with database connectivity.
+Technology USed- HTML, CSS, JavaScript, PHP, MySQL, Bootstrap
